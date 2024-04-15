@@ -1,0 +1,35 @@
+body {
+      
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: large;
+} 
+#differnt-colour{
+    color: aquamarine;
+    font-size: xx-large;
+}
+
+.male-actor{
+    display: flex;
+    background-color: bisque;
+    
+}
+.half-width{
+    width: 50%;
+    margin: 2%;
+    padding: 2%;
+}
+.half-width img {
+    width: 60%;
+     
+}
+.link-button{
+    text-decoration: none;
+    color: rgb(117, 110, 105);
+    padding: 10px 40px;
+    border-radius: 5%;
+    background-color: aqua;
+    background-image: linear-gradient(aqua blue);
+    font-weight: 700;
+}
